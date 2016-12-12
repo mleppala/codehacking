@@ -39,7 +39,6 @@ $(document).ready(function(){
     var panels = $('.user-infos');
     var panelsButton = $('.dropdown-user');
     panels.hide();
-
     //Click dropdown
     panelsButton.click(function() {
         //get data-for attribute
